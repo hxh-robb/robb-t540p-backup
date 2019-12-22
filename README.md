@@ -12,6 +12,7 @@
 * lnav - log highlight
 * sixpair + xboxdrv - For dualshocks3 controller
 * ppsspp
+* kolourpaint
 
 ---
 
