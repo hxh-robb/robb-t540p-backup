@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#sudo sixpair
+#sudo xboxdrv -c /home/robb/scripts/joystick/xboxdrv.ini 
+sudo kill -9 `ps aux|grep -v grep|grep xboxdrv|awk '{print $2}'`

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo sixpair
+sudo xboxdrv -c /home/robb/Scripts/joystick/xboxdrv.ini 
+

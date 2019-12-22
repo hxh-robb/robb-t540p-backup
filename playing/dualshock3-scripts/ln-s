@@ -1,0 +1,2 @@
+lrwxrwxrwx 1 root root 43 Mar 29  2016 /usr/bin/ps3js -> /home/robb/Scripts/joystick/ps3-joystick.sh*
+lrwxrwxrwx 1 root root 48 Mar 29  2016 /usr/bin/ps3jz -> /home/robb/Scripts/joystick/stop-ps3-joystick.sh*
