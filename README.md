@@ -5,4 +5,12 @@
 * custom shorcuts - 自定義快捷鍵
 * todo - 任務清單
 
+---
+
+# Useful Commands
+
+* lnav - log highlight
+
+---
+
 TODO
