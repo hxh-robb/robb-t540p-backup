@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+html{font-size:12px;font-family:"微软雅黑" Arial, Helvetica, sans-serif;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,img,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,a,table {margin:0;padding:0;}
+body{ background:#fff;}
+select{height: 30px;width: 100%;}
+a{ cursor:pointer; text-decoration:none}
+.main_r{ width:900px; float: left;}
+/* 个人信息 */
+.main_r .table{ width:100%; margin:0 auto}
+.main_r .table,.table td{ border:1px solid #c7d6f2; border-collapse:collapse; padding:8px; font-size:14px; color:#555; line-height:34px;} 
+.main_r .table input,.main_r .table select{ border:1px solid #ddd;}
+.main_r .table .bule{ color:#166DA3}
+.main_r .table .bg{ background:#e9f2f8;}
+.main_r .button{ width:100px; height:40px; background:#1983C5; font-size: 16px; color:#fff; border:0; line-height:40px; font-weight:bold; text-align:center; cursor:pointer; margin: 20px auto;}
+.main_r .button:hover{ background:#166DA3;}
+.td_center{align:center;}
+input[type="button"] {
+	font-size:20px;
+	height:30px;
+	background: #0088ff;
+	padding-top: 3px;
+	border: 1px solid #73BC47;
+	cursor: pointer;
+}
+
+input[type="button"]:hover {
+	font-size:20px;
+	height:30px;
+	background: #0088ee;
+	padding-top: 3px;
+	border: 1px solid #5F9935;
+	cursor: pointer;
+}
+
+input[type="text"]{
+	padding-top: 5px;
+	height: 30px;
+	width: 100%;
+}
+
+input[type="button"]:disabled{
+    border: 1px solid #DDD;
+    background-color: #0088ff;
+	font-size:20px;
+	height:30px;
+}

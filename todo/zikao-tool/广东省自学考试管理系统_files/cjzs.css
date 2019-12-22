@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+html{font-size:12px;font-family:"微软雅黑" Arial, Helvetica, sans-serif;}
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,img,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,a,table {margin:0;padding:0;}
+body{ background:#fff;}
+li{list-style-type: none;}
+a{ cursor:pointer; text-decoration:none}
+
+.top{ width:1200px; height:146px; margin:0 auto; margin-top:20px; }
+.top .left{ width:235px; height: 146px; background: url(../images/logo_bg.gif) 0 0 no-repeat; float: left;}
+.top .left .logo{ width: 103px; height: 90px; background:url(../images/logo.png) no-repeat; margin: 20px 0 0 60px;}
+.top .right{ width: 960px; height: 146px; background: url(../images/heading_bg.jpg) no-repeat; float: right;} 
+.top .right p{ font-size: 30px; color: #FFFFFF; margin: 50px 0 0 80px;}
+
+.main{ width: 1200px; margin: 10px auto;}
+
+.menu{ width:231px; border: 1px solid #ddd; float: left;}
+.menu li{ width:100%; border-bottom:1px solid #ddd; text-align:left; text-indent:10px; line-height:50px;}
+.menu li:last-child{ border-bottom: none;}
+.menu .bg{ background: #f2f2f2; color: #1983C5; text-align: center; font-size: 16px; font-weight: bold;}
+.menu a{ font-size:16px; color:#333; display:block}
+.menu .home{ background:#1983C5; color: #fff;}
+
+.main_r{ width:960px; float: right;}
+/* 个人信息 */
+.main_r .table{ width:100%; margin:0 auto}
+.main_r .table,.table td{ border:1px solid #c7d6f2; border-collapse:collapse; padding:8px; font-size:14px; color:#555; line-height:34px;} 
+.main_r .table input,.main_r .table select{ border:1px solid #ddd;}
+.main_r .table .bule{ color:#166DA3}
+.main_r .table .bg{ background:#e9f2f8;}
+.main_r .button{ width:100px; height:40px; background:#1983C5; font-size: 16px; color:#fff; border:0; line-height:40px; font-weight:bold; text-align:center; cursor:pointer; margin: 20px auto;}
+.main_r .button:hover{ background:#166DA3;}
+#footer {
+    clear: both;
+    padding: 10px 0px 0px 0px;
+    width: 1200px;
+    height: 50px;
+    text-align: center;
+    color: #666;
+    background: #d5d5d5;
+    text-align: center;
+}
+#footer_bottom {
+    width: 1200px;
+    height: 10px;
+    margin: 0px;
+    padding: 0px;
+    background: #d5d5d5 url(../images/footer_bottom.gif) no-repeat;
+}
