@@ -17,6 +17,7 @@
 * [wine](https://linuxconfig.org/install-wine-on-ubuntu-18-04-bionic-beaver-linux)
 * telegram-desktop ( sudo snap install telegram-desktop )
 * kolourpaint
+* [odrive](https://github.com/liberodark/ODrive)
 * chrome
 * [virtualbox](https://www.virtualbox.org/wiki/Linux_Downloads)
 * vscode
