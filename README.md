@@ -17,13 +17,15 @@
 * [wine](https://linuxconfig.org/install-wine-on-ubuntu-18-04-bionic-beaver-linux)
 * telegram-desktop ( sudo snap install telegram-desktop )
 * kolourpaint
-* [odrive](https://github.com/liberodark/ODrive)
+* -[odrive](https://github.com/liberodark/ODrive)-
+* [compizconfig-settings-manager](https://www.maketecheasier.com/tweak-number-workspaces-unity/)
 * chrome
 * [virtualbox](https://www.virtualbox.org/wiki/Linux_Downloads)
 * vscode
 * idea
 * pycharm
-* sixpair + xboxdrv - For dualshocks3 controller
+* [qtsixa(sixpair)](https://retropie.org.uk/forum/topic/2913/guide-use-qtsixa-on-ubuntu-16-04-and-derivatives/2)
+* xboxdrv - For dualshocks3 controller
 * ppsspp
 
 ---
