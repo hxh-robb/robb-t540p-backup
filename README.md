@@ -29,6 +29,7 @@
 * kazam
 * openshot
 * [SDL2 gamepad tool](http://generalarcade.com/gamepadtool/)
+* keymon
 * ccsm(CompizConfig + compiz-plugin-extra_wallpaper)
 
 ---
