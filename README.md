@@ -26,6 +26,7 @@
 * [qtsixa(sixpair)](https://retropie.org.uk/forum/topic/2913/guide-use-qtsixa-on-ubuntu-16-04-and-derivatives/2)
 * xboxdrv(sudo apt-get) - For dualshocks3 controller
 * [ppsspp](http://ubuntuhandbook.org/index.php/2018/08/install-psp-emulator-ppsspp-1-6-3-ubuntu-18-04/)
+* CCSM(CompizConfig + compiz-plugin-extra_wallpaper)
 
 ---
 
